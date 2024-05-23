@@ -1,0 +1,42 @@
+.ziba
+{
+	width:auto;
+	height:auto;
+	border-radius: 6px 8px 32px 8px;
+	border: 6px solid green;
+	text-align: center;	
+}
+
+.nameField
+{
+font-weight: bold;
+}
+
+.FormEdit {
+text-align: left;
+background:white;
+margin-left: 48%;
+padding-left: 2px;
+margin-top:4px;
+padding-left:10px;
+}
+.NameEdit {
+background:white;
+float: left;
+text-align: right;
+width: 48%;
+margin-top:4px;
+}
+
+.city
+{
+	text-align: center;
+}
+
+.nameE,.nameF
+{
+
+margin-bottom:10px;
+
+}
+
